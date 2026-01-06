@@ -1,0 +1,12 @@
+pcmanfm
+foot
+fuzzel
+waybar
+swaybg
+hyprland
+chezmoi
+hyprsunset
+sunsetr
+micro
+kew
+hyprshot
